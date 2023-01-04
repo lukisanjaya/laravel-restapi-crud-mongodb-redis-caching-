@@ -11,3 +11,4 @@ php artisan view:cache
 
 php artisan db:seed
 php artisan storage:link
+php artisan jwt:secret
