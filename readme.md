@@ -35,9 +35,6 @@ php artisan serve
 
 6. Open Your Browser [http://127.0.0.1:8000/](http://127.0.0.1:8000/), and you will see the news management api documentation.
 
-```bash
-php artisan serve
-```
 
 ## Login API
 
