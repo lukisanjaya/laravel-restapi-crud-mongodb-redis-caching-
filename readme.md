@@ -1,5 +1,5 @@
 
-# [Laravel 5.8 News MongoDB](https://github.com/lukisanjaya/laravel-restapi-crud-mongodb-redis-caching)
+# [Laravel 5.8 News MongoDB](https://github.com/lukisanjaya/laravel-restapi-crud-mongodb-redis-caching-)
 
 Laravel 5.8 REST API (MongoDB + Redis) with JWT, Repository Pattern.
 
